@@ -16,3 +16,5 @@ I'm a computational linguist and a data science enthusiast!
 - ⚡ Fun fact: I'm a karate and muay thai fighter.
 
 
+# Repo Insights
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kit57&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
