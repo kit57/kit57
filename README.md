@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 I'm a computational linguist and a data science enthusiast!
 
-
 - 🔭 I’m currently working on NLP solutions.
-- 🌱 I’m currently learning Microsoft Azure to build and deploy AI applications.
+- 🌱 I’m currently learning Microsoft Azure and GCP to build and deploy AI applications.
+- 👨‍💻 AWS Machine Learning Specialty certification.
 - 🤔 I’m looking for help with Computer Vision.
 - 💬 Ask me about chatbots and NLP topics.
 - 📫 How to reach me: Via <a href="mailto:maclakun@hotmail.com">mail 📧</a>.
