@@ -11,7 +11,7 @@ I'm a computational linguist and a data science enthusiast!
 - 🌱 I’m currently learning Microsoft Azure and GCP to build and deploy AI applications.
 - 👨‍💻 AWS Machine Learning Specialty certification.
 - 🤔 I’m looking for help with Computer Vision.
-- 💬 Ask me about chatbots and NLP topics.
+- 💬 Ask me about chatbots, GenAI and NLP topics.
 - 📫 How to reach me: Via <a href="mailto:maclakun@hotmail.com">mail 📧</a>.
 - ⚡ Fun fact: I'm a karate and muay thai fighter.
 
