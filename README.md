@@ -9,7 +9,7 @@ I'm a computational linguist and a data science enthusiast!
 
 - 🔭 I’m currently working on NLP solutions.
 - 🌱 I’m currently learning Microsoft Azure, AWS and GCP to build and deploy AI applications.
-- 👨‍💻 AWS Machine Learning Specialty certification.
+- 👨‍💻 [AWS Machine Learning Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/) certification.
 - 💬 Ask me about chatbots, GenAI and NLP topics.
 - 📫 How to reach me: Via <a href="mailto:maclakun@hotmail.com">mail 📧</a>.
 - ⚡ Fun fact: I'm a karate and muay thai fighter.
