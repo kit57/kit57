@@ -16,4 +16,4 @@ I'm a computational linguist and a data science enthusiast!
 
 
 # Repo Insights
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kit57&layout=compact)](https://github.com/kit57/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kit57)](https://github.com/anuraghazra/github-readme-stats)
